@@ -23,6 +23,7 @@ Penjelasan Program :
 
 2.Flowchart
 
+![flowchart (2)](https://user-images.githubusercontent.com/59815639/72404403-cb59e400-3787-11ea-975d-d06050598e37.png)
 
 
 
